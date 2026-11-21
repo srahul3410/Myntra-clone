@@ -159,3 +159,40 @@ header {
   display: block;
 
 }
+.type_banner{
+  width: 100%;
+  padding: 0 50px;
+  box-sizing: border-box;
+
+}
+.type_image{
+  width: 100%;
+  display: block;
+}
+.category_type{
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 0px;
+  padding: 20px 6%;
+  width: 100%;
+ 
+}
+.category_type a {
+  box-sizing: border-box;
+  flex: 0 0 16.66%;
+  max-width: 16.66%;
+  aspect-ratio: 3 / 4.2;
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+
+}
+.sale_type_image{
+  width: 100%;
+  height:auto;
+  display: block;
+}
