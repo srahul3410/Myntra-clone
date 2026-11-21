@@ -128,3 +128,34 @@ header {
   display: block;
 
 }
+.small_banner{
+  width: 100%;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+.small_image{
+  width: 100%;
+  display: block;
+
+}
+.category_item{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0px;
+  padding: 20px 4%;
+  width: 100%;
+
+}
+.category_item a {
+  width:20% ;
+  display: block;
+}
+.sale_item{
+  width: 100%;
+  height:auto;
+  object-fit: cover;
+  border-radius: 0px;
+  display: block;
+
+}
