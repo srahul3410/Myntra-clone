@@ -87,3 +87,44 @@ header {
   flex-direction: column;
   align-items: center;
 }
+.banner_contaier{
+  margin: 40px 0;
+  padding: 0 50px;
+  box-sizing: border-box;
+
+}
+.banner_image{
+  width: 100%;
+  display: block;
+}
+ 
+
+.sponsor_wrapper{
+  width: 100%;
+  padding: 0 50px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 0;
+
+}
+.sponsor_contaier_2, .banner_contaier_3 {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+}
+.banner_image_2, .banner_image_3 {
+  width: 100%;
+  height: auto;
+  display: block;
+  display: block;
+}
+.card_banner{
+  width: 100%;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+.card_image{
+  width: 100%;
+  display: block;
+
+}
